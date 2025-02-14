@@ -1,7 +1,7 @@
 # Cryptocoin E-Commerce Website
 
 ## Overview
-This is a cryptocurrency-themed e-commerce website built using **PHP**, **MySQL**, and **HTML/CSS**. The website includes features like:
+This is a cryptocurrency-themed e-commerce website built using **PHP**, **PhpMyAdmin**, and **HTML/CSS**. The website includes features like:
 - PayPal payment gateway integration.
 - Shopping cart functionality (add/remove items).
 - Admin page for managing products, users, and transactions.
@@ -16,5 +16,5 @@ This is a cryptocurrency-themed e-commerce website built using **PHP**, **MySQL*
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
-- **Database**: MySQL
+- **Database**: PhpMyAdmin
 - **Payment Gateway**: PayPal API
